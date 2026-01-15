@@ -32,4 +32,4 @@
     - also contain diffusion method: currently using finite_volume_method
       
   ## To Run the code on HPCC:
-    -change the directory in **nutrient_functions2.py** and *driver_fungalGrowth_singleNutrient.py**, then run the command dos2unix your_script_name.sh to ensure environmental match. Then run sbatch submission_script_2.sh to start the simulation
+    - change the directory in **nutrient_functions2.py** and **driver_fungalGrowth_singleNutrient.py**, then run the command dos2unix your_script_name.sh to ensure environmental match. Then run sbatch submission_script_2.sh to start the simulation.
